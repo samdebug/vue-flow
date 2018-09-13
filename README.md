@@ -1,18 +1,15 @@
-# vue2.0全家桶实现vivo商城 shop
+# vue2.0全家桶实现流量商城 shop
 vue全家桶 vue2.0+vuex+axios+better-scroll还有就是miut-ui组件库
 
 
 ## 开头
 
 ### 在线预览
-旧的版本：[vivo移动端商城](http://fwk01.top)<br>
-新的版本：[vivo移动端商城](http://fwk02.top)<br>
-项目演示地址：[vivo移动端商城](http://fwk02.top)<br>
 建议Chrome调试手机模式下预览<br>
 因为刚买的域名主机所以要解析，实名认证才可以浏览，所以你们还是下把项目给下载下来本地运行看把！😊
 
 ### 废话
-项目源码地址：[vivo-shop](https://github.com/Mynameisfwk/vivo-shop)，觉得还可以的话给个star 在这先谢谢了~<br>
+觉得还可以的话给个star 在这先谢谢了~<br>
 刚出来实习两个月 所以没有那么的时间来写，只有周六周日有时间！所以帮忙star鼓励下！🙏
 
 ## 写在前面
@@ -40,23 +37,6 @@ vue全家桶 vue2.0+vuex+axios+better-scroll还有就是miut-ui组件库
 
 > [axios](https://www.npmjs.com/package/axios)：用来请求后端api数据
 
-## 效果预览
-
-#### 首页、分类、动态、我的
-![](https://user-gold-cdn.xitu.io/2018/5/17/1636ba09e546a28f?w=1555&h=608&f=png&s=419439)
-
-#### 商品详情、提交订单、订单详情
-![](https://user-gold-cdn.xitu.io/2018/5/17/1636bb0a57c224a2?w=1555&h=608&f=png&s=305775)
-
-#### 文章列表、文章详情、文章收藏
-![](https://user-gold-cdn.xitu.io/2018/5/26/1639adefcd1b5296?w=1555&h=608&f=png&s=637802)
-
-#### 我的订单、商品收藏、我的购物车
-![](https://user-gold-cdn.xitu.io/2018/5/18/16371f71217202ea?w=1555&h=608&f=png&s=246290)
-
-#### 收货地址、地址添加、地址管理
-![](https://user-gold-cdn.xitu.io/2018/5/26/1639add2f11ba68d?w=1555&h=608&f=png&s=127953)
-
 ## 开发目的
 想着写一个案例放在开源网站上，时不时更新、完善、修改来提高自己技术能力，当然我也需要你们的建议有你们的建议我的作品也会更加完美
 
@@ -82,6 +62,6 @@ npm run build
 对。以上就是我的骚话！！！说下我个人的观点！！！写的不好，大佬轻喷！！
 
 ## 写在最后
-数据都来自于vivo官网如有侵权请请联系删除这个小项目做的有点粗糙可以说是非常粗糙、各位将就看看吧、大佬轻喷、还有就是我要厚着脸皮要个star 感谢 🙏
+这个小项目做的有点粗糙可以说是非常粗糙、各位将就看看吧、大佬轻喷、还有就是我要厚着脸皮要个star 感谢 🙏
 
 <img src="https://user-gold-cdn.xitu.io/2018/5/17/1636bde1d014d991?w=198&h=198&f=jpeg&s=3630"></img>
